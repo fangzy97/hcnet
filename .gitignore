@@ -1,0 +1,5 @@
+/.vscode/
+exp
+**/__pycache__/
+initmodel
+**/*.pth
